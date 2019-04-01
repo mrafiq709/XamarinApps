@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:HelloWorld"
+             x:Class="HelloWorld.MainPage">
+
+    <StackLayout Orientation="Vertical">
+
+        <StackLayout Margin="16,35,20,25" Padding="16,0,0,0" Orientation="Horizontal"> <!-- Left, Top, Right, Bottom-->
+
+            <Label Text="The StackLayout has its Margin property set, to control the rendering position of the StackLayout." />
+            <Label Text="The Padding property can be set to specify the distance between the StackLayout and its children." />
+
+        </StackLayout>
+
+
+        <StackLayout Margin="0,20,0,0">
+            <Label Text="Start" BackgroundColor="Gray" HorizontalOptions="Start" />
+            <Label Text="Center" BackgroundColor="Gray" HorizontalOptions="Center" />
+            <Label Text="End" BackgroundColor="Gray" HorizontalOptions="End" />
+            <Label Text="Fill" BackgroundColor="Gray" HorizontalOptions="Fill" />
+            <Label Text="Fill And Expand" BackgroundColor="Gray" HorizontalOptions="FillAndExpand" />
+            <Label Text="Start And Expand" BackgroundColor="Gray" HorizontalOptions="StartAndExpand" />
+            <Label Text="Center And Expand" BackgroundColor="Gray" HorizontalOptions="CenterAndExpand" />
+            <Label Text="End And Expand" BackgroundColor="Gray" HorizontalOptions="EndAndExpand" />
+            
+            <Label Text="Start And Expand" BackgroundColor="Gray" VerticalOptions="StartAndExpand" />
+            <Label Text="Center And Expand" BackgroundColor="Gray" VerticalOptions="CenterAndExpand" />
+            <Label Text="fill And Expand" BackgroundColor="Gray" VerticalOptions="FillAndExpand" />
+            
+        </StackLayout>
+
+        <StackLayout Margin="0,20,0,0">
+            <BoxView BackgroundColor="Red" HeightRequest="10" />
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

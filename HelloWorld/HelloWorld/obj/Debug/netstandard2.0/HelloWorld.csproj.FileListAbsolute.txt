@@ -1,0 +1,12 @@
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.deps.json
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.dll
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.pdb
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csprojAssemblyReference.cache
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfoInputs.cache
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfo.cs
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.dll
+F:\xamarinWorkspace\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.pdb
