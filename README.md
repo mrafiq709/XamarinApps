@@ -1,7 +1,6 @@
 # XamarinApps
 Xamarin Apps Folder
 
-----------------------------
 Stack Layout:
 ---------------------------
 </br> </br>
