@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BasicView"
+             x:Class="BasicView.MainPage">
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="16">
+                <BoxView BackgroundColor="Red" HeightRequest="10" WidthRequest="10" />
+
+                <Label 
+                   Text="Welcome to Xamarin.Forms!"
+                   TextColor="Blue"
+                   FontAttributes="Italic"
+                   FontSize="22"
+                   TextDecorations="Underline"
+                   HorizontalOptions="Center" />
+
+                <Label 
+                    TextColor="Gray"
+                    FontSize="Medium">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="This sentence contains " />
+                            <Span Text="words that are emphasized, "
+                                  FontAttributes="Italic" />
+                            <Span Text="and underlined."
+                                  TextDecorations="Underline" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+                <Button 
+                    Text="Click me" 
+                    Clicked="OnButtonClicked"
+                    TextColor="Blue"
+                    BackgroundColor="Aqua"
+                    BorderColor="Red"
+                    BorderWidth="5"
+                    CornerRadius="5"
+                    WidthRequest="150"
+                    HeightRequest="75"/>
+
+                <Entry 
+                    Placeholder="Enter text"
+                    TextChanged="OnEntryTextChanged"
+                    Completed="OnEntryCompleted"/>
+
+                <Entry 
+                   Placeholder="Enter password"
+                   MaxLength="15"
+                   IsSpellCheckEnabled="false"
+                   IsTextPredictionEnabled="false"
+                   IsPassword="true" />
+
+                <!--HeightRequest="200" This can be replaced for AutoSize-->
+                <Editor 
+                    Placeholder="Enter multi-line text here"
+                    AutoSize="TextChanges" 
+                    MaxLength="200"
+                    IsSpellCheckEnabled="false"
+                    TextChanged="OnEditorTextChanged"
+                    Completed="OnEditorCompleted"/>
+
+                <!--HeightRequest="200" This also can be used directly-->
+                <!-- Source="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Papio_anubis_%28Serengeti%2C_2009%29.jpg/200px-Papio_anubis_%28Serengeti%2C_2009%29.jpg" -->
+                <!-- HeightRequest="{OnPlatform iOS=300, Android=250}" -->
+                <!--Aspect="AspectFit"-->
+                <Image 
+                    Source="xamarinlogo.png"
+                    WidthRequest="{OnPlatform iOS=300, Android=250}"
+                    HorizontalOptions="Center"/>
+
+                <BoxView BackgroundColor="Red" HeightRequest="10" WidthRequest="10" />
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>

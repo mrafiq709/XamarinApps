@@ -1,0 +1,12 @@
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\bin\Debug\netstandard2.0\BasicView.deps.json
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\bin\Debug\netstandard2.0\BasicView.dll
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\bin\Debug\netstandard2.0\BasicView.pdb
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\obj\Debug\netstandard2.0\BasicView.csproj.CoreCompileInputs.cache
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\obj\Debug\netstandard2.0\BasicView.AssemblyInfoInputs.cache
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\obj\Debug\netstandard2.0\BasicView.AssemblyInfo.cs
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\obj\Debug\netstandard2.0\XamlC.stamp
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\obj\Debug\netstandard2.0\BasicView.dll
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\obj\Debug\netstandard2.0\BasicView.pdb
+F:\xamarinWorkspace\BasicView\BasicView\BasicView\obj\Debug\netstandard2.0\BasicView.csprojAssemblyReference.cache
