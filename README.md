@@ -1,7 +1,6 @@
 # XamarinApps
 Xamarin Apps Folder
 
-----------------------------------------
 Basic View (Label, Button, Text, Image)
 ----------------------------------------
 </br> </br>
