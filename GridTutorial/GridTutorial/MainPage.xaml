@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GridTutorial"
+             x:Class="GridTutorial.MainPage">
+
+    <!--Proportional values, which size the columns and rows as a proportion of the remaining space. Proportional values are indicated by ending with a *
+      In the code bellow, each column has a width of half the Grid, while each row has a height of 50 device-independent units.
+      any child views that don't set them will automatically be rendered in column 0, row 0-->
+
+    <StackLayout>
+        <Grid Margin="20,35,20,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*" />
+                <ColumnDefinition Width="0.5*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+            <Label 
+                Text="Column 0, Row 0" />
+            <Label 
+                Grid.Column="1"
+                Text="Column 1, Row 0" />
+            <Label 
+                Grid.Row="1"
+                Text="Column 0, Row 1" />
+            <Label 
+                Grid.Column="1"
+                Grid.Row="1"
+                Text="Column 1, Row 1" />
+        </Grid>
+
+        <!--The ColumnSpan property is set to 2, which represents the number of columns the Label will span. -->
+        <!--The RowSpan property is set to 2, which represents the number of rows that the Label will span.-->
+        <Grid Margin="20,35,20,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*" />
+                <ColumnDefinition Width="0.5*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="30" />
+            </Grid.RowDefinitions>
+            <Label 
+                Grid.ColumnSpan="2"
+                Text="This text uses the ColumnSpan property to span both columns." />
+            <Label 
+                Grid.Row="1"
+                Grid.RowSpan="2"
+                Text="This text uses the RowSpan property to span two rows." />
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
