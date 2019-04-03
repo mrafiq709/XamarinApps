@@ -1,0 +1,12 @@
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\bin\Debug\netstandard2.0\PopupsTutorial.deps.json
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\bin\Debug\netstandard2.0\PopupsTutorial.dll
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\bin\Debug\netstandard2.0\PopupsTutorial.pdb
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.csprojAssemblyReference.cache
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.csproj.CoreCompileInputs.cache
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.AssemblyInfoInputs.cache
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.AssemblyInfo.cs
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.dll
+F:\xamarinWorkspace\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.pdb
