@@ -1,0 +1,12 @@
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ListViewTutorial.deps.json
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ListViewTutorial.dll
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ListViewTutorial.pdb
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.csprojAssemblyReference.cache
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.csproj.CoreCompileInputs.cache
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.AssemblyInfoInputs.cache
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.AssemblyInfo.cs
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.dll
+F:\xamarinWorkspace\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.pdb
