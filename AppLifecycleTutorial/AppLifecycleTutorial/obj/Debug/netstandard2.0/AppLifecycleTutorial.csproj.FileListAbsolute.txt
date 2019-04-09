@@ -1,0 +1,12 @@
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.deps.json
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.dll
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.pdb
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.csprojAssemblyReference.cache
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.csproj.CoreCompileInputs.cache
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfoInputs.cache
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfo.cs
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.dll
+F:\xamarinWorkspace\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.pdb
