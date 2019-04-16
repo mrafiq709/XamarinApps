@@ -1,0 +1,11 @@
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.deps.json
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.dll
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.pdb
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.csproj.CoreCompileInputs.cache
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.AssemblyInfoInputs.cache
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.AssemblyInfo.cs
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.dll
+F:\xamarinWorkspace\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.pdb
