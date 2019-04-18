@@ -1,0 +1,12 @@
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\bin\Debug\netstandard2.0\ExcelMake.deps.json
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\bin\Debug\netstandard2.0\ExcelMake.dll
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\bin\Debug\netstandard2.0\ExcelMake.pdb
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\obj\Debug\netstandard2.0\ExcelMake.csprojAssemblyReference.cache
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\obj\Debug\netstandard2.0\ExcelMake.csproj.CoreCompileInputs.cache
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\obj\Debug\netstandard2.0\ExcelMake.AssemblyInfoInputs.cache
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\obj\Debug\netstandard2.0\ExcelMake.AssemblyInfo.cs
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\obj\Debug\netstandard2.0\ExcelMake.dll
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\obj\Debug\netstandard2.0\ExcelMake.pdb
+F:\xamarinWorkspace\ExcelMake\ExcelMake\ExcelMake\obj\Debug\netstandard2.0\XamlC.stamp
