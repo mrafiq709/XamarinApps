@@ -40,8 +40,8 @@ namespace ExcelMake
                 workbook.Close();
 
                 //Save the stream as a file in the device and invoke it for viewing
-                //DependencyService.Get<ISave>().SaveAndView("GettingStared.xlsx", "application/msexcel", stream);
-
+                DependencyService.Get<ISave>().SaveAndView("GettingStared.xlsx", "application/msexcel", stream);
+                /*
                 string path = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
                 string filename = Path.Combine(path, "GettingStared.xlsx");
 
@@ -57,6 +57,7 @@ namespace ExcelMake
                 }
 
                 DependencyService.Get<IToastMessage>().Show("Toast Message");
+                */
             }
         }
     }
